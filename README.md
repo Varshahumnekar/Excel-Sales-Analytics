@@ -8,7 +8,7 @@
 
     **1.** Create a [Customer Performance Report] ([Customer Performance Report.pdf](https://github.com/Varshahumnekar/Excel-Sales-Analytics.git))
   
-    **2.** Conduct a Comprehensive Comparison between [Market Performance and Sales Targets] ([https://github.com/Varshahumnekar/Excel-Sales-Analytics.git])
+    **2.** Conduct a Comprehensive Comparison between ([Market Performance and Sales Targets](https://github.com/Varshahumnekar/Excel-Sales-Analytics.git))
   
     **3.** Create Other Sales Reports [Divison Report , New Products Report , Top & Bottom Product - Qty , Top 10 Products , Top 5 Countries] ([https://github.com/Varshahumnekar/Excel-Sales-Analytics.git])
 
