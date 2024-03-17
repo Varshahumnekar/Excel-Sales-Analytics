@@ -6,7 +6,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a [Customer Performance Report] (https://github.com/Varshahumnekar/Excel-Sales-Analytics.git)
+    **1.** Create a [Customer Performance Report] [(https://github.com/Varshahumnekar/Excel-Sales-Analytics.git)](https://github.com/Varshahumnekar/Excel-Sales-Analytics/commit/41b69a61145dd988bb002a1e0b3fbb8e5793d7f7)
   
     **2.** Conduct a Comprehensive Comparison between [Market Performance and Sales Targets] (https://github.com/Varshahumnekar/Excel-Sales-Analytics.git)
 
